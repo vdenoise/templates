@@ -17,7 +17,7 @@ axes.grid : True
 grid.alpha : 0.7
 grid.linestyle : --
 grid.linewidth : 0.6
-
+ 
 # LINES
 axes.prop_cycle : cycler('color', [ '0046b8', '2464c9', '4d87e3', '7899cf', '8ea1bf']) #hex colours
 lines.linewidth : 1.5
